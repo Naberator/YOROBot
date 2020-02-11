@@ -34,7 +34,7 @@ cssselect==1.0.0
 cycler==0.9.0
 Cython==0.23
 decorator==4.0.10
-Django==1.7.6
+Django==1.11.28
 django-bootstrap-form==3.2
 django-bootstrap-forms==0.1
 django-bower==5.0.2
