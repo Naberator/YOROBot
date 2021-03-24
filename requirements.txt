@@ -138,7 +138,7 @@ requesocks==0.10.8
 requests==2.6.0
 requests-oauthlib==0.4.2
 requests-toolbelt==0.7.0
-rsa==3.3
+rsa==4.1
 Rx==1.5.2
 s3transfer==0.0.1
 schedule==0.3.2
