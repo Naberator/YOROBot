@@ -166,7 +166,7 @@ tornado==4.3
 tqdm==4.10.0
 traitlets==4.2.2
 twilio==3.8.0
-Twisted==16.6.0
+Twisted==22.4.0
 tzlocal==1.2.2
 uber-rides==0.1.1
 unity-lens-photos==1.0
