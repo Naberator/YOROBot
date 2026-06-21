@@ -1,5 +1,7 @@
 # YOROBot
 
+# DEPRECATED - DO NOT USE
+
 this is a multipurpose telegram bot for personal use.
 
 Bot is currently running on a PythonAnwhere server.
