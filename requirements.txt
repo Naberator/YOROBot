@@ -60,7 +60,7 @@ gyp==0.1
 h2==2.1.2
 hpack==2.1.0
 html2text==2016.1.8
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.9
 httpretty==0.8.8
 hyperframe==3.2.0
