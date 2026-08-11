@@ -180,7 +180,7 @@ watchdog==0.8.3
 wcwidth==0.1.6
 web.py==0.38
 websocket-client==0.35.0
-Werkzeug==0.10.4
+Werkzeug==0.15.3
 winpdb==1.4.8
 wxPython==3.0.2.0
 wxPython-common==3.0.2.0
